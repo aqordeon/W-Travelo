@@ -17,7 +17,7 @@ const TestimonialCard = () => {
                 </figure>
 
                 <div className="flex flex-col">
-                    <p className="text-heading-4 text-gray-100 font-label font-bold mb-1">Bagas Putra</p>
+                    <p className="text-heading-4 text-gray-100 font-label font-bold mb-1">Aqordi Laksa</p>
                     <p className="text-heading-5 text-gray-50 font-bold">Bandung, Jawa Barat</p>
                 </div>
             </div>
